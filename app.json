@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Gestor de tareas 2",
+    "slug": "app-gestiondetaresas2",
+    "scheme": "gestortareas2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "android": {
+      "package": "com.instituto.gestortareas2"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
